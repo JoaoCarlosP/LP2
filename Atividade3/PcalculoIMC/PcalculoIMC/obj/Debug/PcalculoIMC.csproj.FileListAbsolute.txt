@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\bin\Debug\PcalculoIMC.exe.config
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\bin\Debug\PcalculoIMC.exe
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\bin\Debug\PcalculoIMC.pdb
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.Form1.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.Properties.Resources.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.exe
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\Atividades\PcalculoIMC\PcalculoIMC\obj\Debug\PcalculoIMC.pdb
