@@ -1,8 +1,9 @@
 # Atividade 4 - Tipo de triângulo 📐
 
+
 Atividade realizada em C# com o objetivo de, a partir de 3 medidas fornecidas, informar se:
 
-A - Não é triângulo
-B - É um triângulo isósceles
-C - É um triângulo Equilátero
-D - É um triângulo Escaleno
+1 - Não é triângulo
+2 - É um triângulo isósceles
+3 - É um triângulo Equilátero
+4 - É um triângulo Escaleno
