@@ -25,7 +25,7 @@ namespace PAtividade8
 
             Array.Reverse(fraseInversa);
 
-            foreach(char c in fraseInversa)
+            foreach (char c in fraseInversa)
             {
                 auxiliar = auxiliar + c.ToString();
             }
@@ -35,7 +35,7 @@ namespace PAtividade8
             if (string.Compare(frase, auxiliar) == 0)
                 lblResposta.Text = "A frase " + txtFrase.Text + " é um palindromo!";
             else
-                lblResposta.Text = "A frase/palavra: " +txtFrase.Text+ "NÃO é um palindromo!";
+                lblResposta.Text = "A frase/palavra: " + txtFrase.Text + "NÃO é um palindromo!";
 
         }
     }
