@@ -16,5 +16,18 @@ namespace PAtividade9
         {
             InitializeComponent();
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            string[] Alunos = {"Viviane", "André", "Hélio", "Denise", "Junior",
+                                "Leonardo", "Jose", "Nelma", "Tobby"};
+            Int32 I, Total = 0;
+            Int32 N = Alunos.Length;
+            for (I = 0; I < N - 1; I++)
+            {
+                Total += Alunos[I].Length;
+                txtResultado.Text = Total.ToString();
+            }
+        }
     }
 }

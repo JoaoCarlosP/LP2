@@ -55,6 +55,7 @@ namespace PAtividade9
             // 
             this.rchtxtQuantidade.Location = new System.Drawing.Point(19, 25);
             this.rchtxtQuantidade.Name = "rchtxtQuantidade";
+            this.rchtxtQuantidade.ReadOnly = true;
             this.rchtxtQuantidade.Size = new System.Drawing.Size(85, 170);
             this.rchtxtQuantidade.TabIndex = 1;
             this.rchtxtQuantidade.Text = "";
@@ -81,6 +82,7 @@ namespace PAtividade9
             // 
             this.rchtxtValorUnitario.Location = new System.Drawing.Point(110, 25);
             this.rchtxtValorUnitario.Name = "rchtxtValorUnitario";
+            this.rchtxtValorUnitario.ReadOnly = true;
             this.rchtxtValorUnitario.Size = new System.Drawing.Size(85, 170);
             this.rchtxtValorUnitario.TabIndex = 3;
             this.rchtxtValorUnitario.Text = "";
@@ -98,6 +100,7 @@ namespace PAtividade9
             // 
             this.rchtxtValorTotal.Location = new System.Drawing.Point(201, 25);
             this.rchtxtValorTotal.Name = "rchtxtValorTotal";
+            this.rchtxtValorTotal.ReadOnly = true;
             this.rchtxtValorTotal.Size = new System.Drawing.Size(85, 170);
             this.rchtxtValorTotal.TabIndex = 5;
             this.rchtxtValorTotal.Text = "";
@@ -106,6 +109,7 @@ namespace PAtividade9
             // 
             this.txtFaturamentoTotal.Location = new System.Drawing.Point(295, 102);
             this.txtFaturamentoTotal.Name = "txtFaturamentoTotal";
+            this.txtFaturamentoTotal.ReadOnly = true;
             this.txtFaturamentoTotal.Size = new System.Drawing.Size(100, 20);
             this.txtFaturamentoTotal.TabIndex = 7;
             // 

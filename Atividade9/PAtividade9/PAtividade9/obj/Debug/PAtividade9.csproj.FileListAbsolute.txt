@@ -21,3 +21,4 @@ C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Ativ
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.CoreCompileInputs.cache
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.FrmExercicio3.resources
