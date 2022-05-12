@@ -34,6 +34,7 @@ namespace PAtividade8
             this.exercício2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,7 +44,8 @@ namespace PAtividade8
             this.exercício1ToolStripMenuItem,
             this.exercício2ToolStripMenuItem,
             this.exercício3ToolStripMenuItem,
-            this.exercício4ToolStripMenuItem});
+            this.exercício4ToolStripMenuItem,
+            this.sairToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(547, 24);
@@ -78,6 +80,13 @@ namespace PAtividade8
             this.exercício4ToolStripMenuItem.Text = "Exercicio4";
             this.exercício4ToolStripMenuItem.Click += new System.EventHandler(this.exercício4ToolStripMenuItem_Click);
             // 
+            // sairToolStripMenuItem
+            // 
+            this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
+            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -102,6 +111,7 @@ namespace PAtividade8
         private System.Windows.Forms.ToolStripMenuItem exercício2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício3ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício4ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
     }
 }
 

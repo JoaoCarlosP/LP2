@@ -43,6 +43,7 @@ namespace PAtividade8
             this.btnCalculo = new System.Windows.Forms.Button();
             this.lblResposta = new System.Windows.Forms.Label();
             this.cbxCargo = new System.Windows.Forms.ComboBox();
+            this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblNome
@@ -123,7 +124,6 @@ namespace PAtividade8
             // 
             this.txtGratificacao.Location = new System.Drawing.Point(266, 136);
             this.txtGratificacao.Name = "txtGratificacao";
-            this.txtGratificacao.ReadOnly = true;
             this.txtGratificacao.Size = new System.Drawing.Size(161, 22);
             this.txtGratificacao.TabIndex = 11;
             // 
@@ -138,7 +138,7 @@ namespace PAtividade8
             // 
             // btnCalculo
             // 
-            this.btnCalculo.Location = new System.Drawing.Point(150, 207);
+            this.btnCalculo.Location = new System.Drawing.Point(124, 207);
             this.btnCalculo.Name = "btnCalculo";
             this.btnCalculo.Size = new System.Drawing.Size(155, 41);
             this.btnCalculo.TabIndex = 12;
@@ -172,11 +172,22 @@ namespace PAtividade8
             this.cbxCargo.TabIndex = 14;
             this.cbxCargo.SelectedIndexChanged += new System.EventHandler(this.cbxCargo_SelectedIndexChanged);
             // 
+            // btnClose
+            // 
+            this.btnClose.Location = new System.Drawing.Point(320, 207);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(107, 41);
+            this.btnClose.TabIndex = 15;
+            this.btnClose.Text = "Limpar";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
             // FrmExercicio4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(454, 260);
+            this.Controls.Add(this.btnClose);
             this.Controls.Add(this.cbxCargo);
             this.Controls.Add(this.lblResposta);
             this.Controls.Add(this.btnCalculo);
@@ -217,5 +228,6 @@ namespace PAtividade8
         private System.Windows.Forms.Button btnCalculo;
         private System.Windows.Forms.Label lblResposta;
         private System.Windows.Forms.ComboBox cbxCargo;
+        private System.Windows.Forms.Button btnClose;
     }
 }
