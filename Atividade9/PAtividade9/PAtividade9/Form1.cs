@@ -76,5 +76,10 @@ namespace PAtividade9
             objFrm.WindowState = FormWindowState.Maximized;
             objFrm.Show();
         }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

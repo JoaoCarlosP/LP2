@@ -35,6 +35,7 @@ namespace PAtividade9
             this.exercicio3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercicio4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercicio5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,10 +46,11 @@ namespace PAtividade9
             this.exercicio2ToolStripMenuItem,
             this.exercicio3ToolStripMenuItem,
             this.exercicio4ToolStripMenuItem,
-            this.exercicio5ToolStripMenuItem});
+            this.exercicio5ToolStripMenuItem,
+            this.sairToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(425, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(412, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -87,11 +89,18 @@ namespace PAtividade9
             this.exercicio5ToolStripMenuItem.Text = "Exercicio5";
             this.exercicio5ToolStripMenuItem.Click += new System.EventHandler(this.exercicio5ToolStripMenuItem_Click);
             // 
+            // sairToolStripMenuItem
+            // 
+            this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
+            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(425, 292);
+            this.ClientSize = new System.Drawing.Size(412, 292);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
@@ -112,6 +121,7 @@ namespace PAtividade9
         private System.Windows.Forms.ToolStripMenuItem exercicio3ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercicio4ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercicio5ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
     }
 }
 

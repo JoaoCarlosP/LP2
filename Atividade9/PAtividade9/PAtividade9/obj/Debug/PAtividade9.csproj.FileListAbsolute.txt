@@ -9,3 +9,15 @@ C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PAtivida
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.CoreCompileInputs.cache
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe.config
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\bin\Debug\PAtividade9.pdb
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.Form1.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio1.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.FrmExercicio2.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.Properties.Resources.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
