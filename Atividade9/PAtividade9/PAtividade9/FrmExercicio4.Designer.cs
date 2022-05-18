@@ -30,12 +30,12 @@ namespace PAtividade9
         private void InitializeComponent()
         {
             this.btnClique = new System.Windows.Forms.Button();
-            this.lblFrase = new System.Windows.Forms.Label();
+            this.lblComentario = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnClique
             // 
-            this.btnClique.Location = new System.Drawing.Point(178, 149);
+            this.btnClique.Location = new System.Drawing.Point(209, 147);
             this.btnClique.Name = "btnClique";
             this.btnClique.Size = new System.Drawing.Size(100, 40);
             this.btnClique.TabIndex = 0;
@@ -43,22 +43,21 @@ namespace PAtividade9
             this.btnClique.UseVisualStyleBackColor = true;
             this.btnClique.Click += new System.EventHandler(this.btnClique_Click);
             // 
-            // lblFrase
+            // lblComentario
             // 
-            this.lblFrase.AutoSize = true;
-            this.lblFrase.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFrase.Location = new System.Drawing.Point(124, 70);
-            this.lblFrase.Name = "lblFrase";
-            this.lblFrase.Size = new System.Drawing.Size(226, 20);
-            this.lblFrase.TabIndex = 1;
-            this.lblFrase.Text = "Exercício utilizando \'.Remove()\'";
+            this.lblComentario.AutoSize = true;
+            this.lblComentario.Location = new System.Drawing.Point(113, 98);
+            this.lblComentario.Name = "lblComentario";
+            this.lblComentario.Size = new System.Drawing.Size(301, 13);
+            this.lblComentario.TabIndex = 12;
+            this.lblComentario.Text = "Exercício 4: Excluir o nome \"Otávio\" da lista de nomes e exibir";
             // 
             // FrmExercicio4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(464, 223);
-            this.Controls.Add(this.lblFrase);
+            this.ClientSize = new System.Drawing.Size(526, 223);
+            this.Controls.Add(this.lblComentario);
             this.Controls.Add(this.btnClique);
             this.Name = "FrmExercicio4";
             this.Text = "FrmExercicio4";
@@ -70,6 +69,6 @@ namespace PAtividade9
         #endregion
 
         private System.Windows.Forms.Button btnClique;
-        private System.Windows.Forms.Label lblFrase;
+        private System.Windows.Forms.Label lblComentario;
     }
 }

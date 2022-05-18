@@ -34,11 +34,12 @@ namespace PAtividade9
             this.rchtxtTela2 = new System.Windows.Forms.RichTextBox();
             this.rchtxtTela3 = new System.Windows.Forms.RichTextBox();
             this.rchtxtTela4 = new System.Windows.Forms.RichTextBox();
+            this.lblComentario = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnCalcMedia
             // 
-            this.btnCalcMedia.Location = new System.Drawing.Point(350, 128);
+            this.btnCalcMedia.Location = new System.Drawing.Point(373, 131);
             this.btnCalcMedia.Name = "btnCalcMedia";
             this.btnCalcMedia.Size = new System.Drawing.Size(100, 40);
             this.btnCalcMedia.TabIndex = 1;
@@ -48,7 +49,7 @@ namespace PAtividade9
             // 
             // rchtxtTela1
             // 
-            this.rchtxtTela1.Location = new System.Drawing.Point(4, 12);
+            this.rchtxtTela1.Location = new System.Drawing.Point(14, 12);
             this.rchtxtTela1.Name = "rchtxtTela1";
             this.rchtxtTela1.ReadOnly = true;
             this.rchtxtTela1.Size = new System.Drawing.Size(108, 275);
@@ -57,7 +58,7 @@ namespace PAtividade9
             // 
             // rchtxtTela2
             // 
-            this.rchtxtTela2.Location = new System.Drawing.Point(110, 12);
+            this.rchtxtTela2.Location = new System.Drawing.Point(120, 12);
             this.rchtxtTela2.Name = "rchtxtTela2";
             this.rchtxtTela2.ReadOnly = true;
             this.rchtxtTela2.Size = new System.Drawing.Size(75, 275);
@@ -66,7 +67,7 @@ namespace PAtividade9
             // 
             // rchtxtTela3
             // 
-            this.rchtxtTela3.Location = new System.Drawing.Point(183, 12);
+            this.rchtxtTela3.Location = new System.Drawing.Point(193, 12);
             this.rchtxtTela3.Name = "rchtxtTela3";
             this.rchtxtTela3.ReadOnly = true;
             this.rchtxtTela3.Size = new System.Drawing.Size(75, 275);
@@ -75,18 +76,28 @@ namespace PAtividade9
             // 
             // rchtxtTela4
             // 
-            this.rchtxtTela4.Location = new System.Drawing.Point(255, 12);
+            this.rchtxtTela4.Location = new System.Drawing.Point(265, 12);
             this.rchtxtTela4.Name = "rchtxtTela4";
             this.rchtxtTela4.ReadOnly = true;
             this.rchtxtTela4.Size = new System.Drawing.Size(83, 275);
             this.rchtxtTela4.TabIndex = 5;
             this.rchtxtTela4.Text = "";
             // 
+            // lblComentario
+            // 
+            this.lblComentario.AutoSize = true;
+            this.lblComentario.Location = new System.Drawing.Point(107, 290);
+            this.lblComentario.Name = "lblComentario";
+            this.lblComentario.Size = new System.Drawing.Size(286, 13);
+            this.lblComentario.TabIndex = 13;
+            this.lblComentario.Text = "Exercício 4: Inserir 3 notas de 20 alunos e calcular a média";
+            // 
             // FrmExercicio5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(462, 309);
+            this.ClientSize = new System.Drawing.Size(522, 309);
+            this.Controls.Add(this.lblComentario);
             this.Controls.Add(this.rchtxtTela4);
             this.Controls.Add(this.rchtxtTela3);
             this.Controls.Add(this.rchtxtTela2);
@@ -95,6 +106,7 @@ namespace PAtividade9
             this.Name = "FrmExercicio5";
             this.Text = "FrmExercicio5";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -105,5 +117,6 @@ namespace PAtividade9
         private System.Windows.Forms.RichTextBox rchtxtTela2;
         private System.Windows.Forms.RichTextBox rchtxtTela3;
         private System.Windows.Forms.RichTextBox rchtxtTela4;
+        private System.Windows.Forms.Label lblComentario;
     }
 }

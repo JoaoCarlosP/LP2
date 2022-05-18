@@ -39,11 +39,12 @@ namespace PAtividade9
             this.txtFaturamentoTotal = new System.Windows.Forms.TextBox();
             this.lblFaturamentoTotal = new System.Windows.Forms.Label();
             this.btnClear = new System.Windows.Forms.Button();
+            this.lblComentario = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnCalculoFaturamento
             // 
-            this.btnCalculoFaturamento.Location = new System.Drawing.Point(145, 205);
+            this.btnCalculoFaturamento.Location = new System.Drawing.Point(200, 234);
             this.btnCalculoFaturamento.Name = "btnCalculoFaturamento";
             this.btnCalculoFaturamento.Size = new System.Drawing.Size(114, 50);
             this.btnCalculoFaturamento.TabIndex = 0;
@@ -56,7 +57,7 @@ namespace PAtividade9
             this.rchtxtQuantidade.Location = new System.Drawing.Point(31, 27);
             this.rchtxtQuantidade.Name = "rchtxtQuantidade";
             this.rchtxtQuantidade.ReadOnly = true;
-            this.rchtxtQuantidade.Size = new System.Drawing.Size(85, 170);
+            this.rchtxtQuantidade.Size = new System.Drawing.Size(85, 180);
             this.rchtxtQuantidade.TabIndex = 1;
             this.rchtxtQuantidade.Text = "";
             // 
@@ -83,7 +84,7 @@ namespace PAtividade9
             this.rchtxtValorUnitario.Location = new System.Drawing.Point(122, 27);
             this.rchtxtValorUnitario.Name = "rchtxtValorUnitario";
             this.rchtxtValorUnitario.ReadOnly = true;
-            this.rchtxtValorUnitario.Size = new System.Drawing.Size(85, 170);
+            this.rchtxtValorUnitario.Size = new System.Drawing.Size(85, 180);
             this.rchtxtValorUnitario.TabIndex = 3;
             this.rchtxtValorUnitario.Text = "";
             // 
@@ -101,13 +102,13 @@ namespace PAtividade9
             this.rchtxtValorTotal.Location = new System.Drawing.Point(213, 27);
             this.rchtxtValorTotal.Name = "rchtxtValorTotal";
             this.rchtxtValorTotal.ReadOnly = true;
-            this.rchtxtValorTotal.Size = new System.Drawing.Size(85, 170);
+            this.rchtxtValorTotal.Size = new System.Drawing.Size(85, 180);
             this.rchtxtValorTotal.TabIndex = 5;
             this.rchtxtValorTotal.Text = "";
             // 
             // txtFaturamentoTotal
             // 
-            this.txtFaturamentoTotal.Location = new System.Drawing.Point(326, 102);
+            this.txtFaturamentoTotal.Location = new System.Drawing.Point(339, 103);
             this.txtFaturamentoTotal.Name = "txtFaturamentoTotal";
             this.txtFaturamentoTotal.ReadOnly = true;
             this.txtFaturamentoTotal.Size = new System.Drawing.Size(100, 20);
@@ -116,7 +117,7 @@ namespace PAtividade9
             // lblFaturamentoTotal
             // 
             this.lblFaturamentoTotal.AutoSize = true;
-            this.lblFaturamentoTotal.Location = new System.Drawing.Point(326, 86);
+            this.lblFaturamentoTotal.Location = new System.Drawing.Point(339, 87);
             this.lblFaturamentoTotal.Name = "lblFaturamentoTotal";
             this.lblFaturamentoTotal.Size = new System.Drawing.Size(92, 13);
             this.lblFaturamentoTotal.TabIndex = 8;
@@ -124,7 +125,7 @@ namespace PAtividade9
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(343, 128);
+            this.btnClear.Location = new System.Drawing.Point(356, 129);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 23);
             this.btnClear.TabIndex = 9;
@@ -132,11 +133,22 @@ namespace PAtividade9
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
+            // lblComentario
+            // 
+            this.lblComentario.AutoSize = true;
+            this.lblComentario.Location = new System.Drawing.Point(68, 210);
+            this.lblComentario.Name = "lblComentario";
+            this.lblComentario.Size = new System.Drawing.Size(417, 13);
+            this.lblComentario.TabIndex = 10;
+            this.lblComentario.Text = "Exercício 2: Digitar a qtde e valor de vendas de produtos e calcular o faturament" +
+    "o total";
+            // 
             // FrmExercicio2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(454, 267);
+            this.ClientSize = new System.Drawing.Size(521, 296);
+            this.Controls.Add(this.lblComentario);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.lblFaturamentoTotal);
             this.Controls.Add(this.txtFaturamentoTotal);
@@ -166,5 +178,6 @@ namespace PAtividade9
         private System.Windows.Forms.TextBox txtFaturamentoTotal;
         private System.Windows.Forms.Label lblFaturamentoTotal;
         private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Label lblComentario;
     }
 }

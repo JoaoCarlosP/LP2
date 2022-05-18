@@ -32,6 +32,7 @@ namespace PAtividade9
             this.btnCalcular = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
             this.txtResultado = new System.Windows.Forms.TextBox();
+            this.lblComentario = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnCalcular
@@ -61,11 +62,21 @@ namespace PAtividade9
             this.txtResultado.Size = new System.Drawing.Size(112, 20);
             this.txtResultado.TabIndex = 2;
             // 
+            // lblComentario
+            // 
+            this.lblComentario.AutoSize = true;
+            this.lblComentario.Location = new System.Drawing.Point(109, 189);
+            this.lblComentario.Name = "lblComentario";
+            this.lblComentario.Size = new System.Drawing.Size(274, 13);
+            this.lblComentario.TabIndex = 11;
+            this.lblComentario.Text = "Exercício 3: Inserir o código no editor e exibir o resultado";
+            // 
             // FrmExercicio3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(467, 222);
+            this.ClientSize = new System.Drawing.Size(528, 222);
+            this.Controls.Add(this.lblComentario);
             this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnCalcular);
@@ -81,5 +92,6 @@ namespace PAtividade9
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Label lblResultado;
         private System.Windows.Forms.TextBox txtResultado;
+        private System.Windows.Forms.Label lblComentario;
     }
 }

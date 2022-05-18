@@ -24,3 +24,4 @@ C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Ativ
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.FrmExercicio3.resources
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.FrmExercicio4.resources
 C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.FrmExercicio5.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\LP2\Atividade9\PAtividade9\PAtividade9\obj\Debug\PAtividade9.FrmExercicio6.resources
