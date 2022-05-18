@@ -29,12 +29,33 @@ namespace PAtividade9
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnCalcMedia = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnCalcMedia
+            // 
+            this.btnCalcMedia.Location = new System.Drawing.Point(188, 178);
+            this.btnCalcMedia.Name = "btnCalcMedia";
+            this.btnCalcMedia.Size = new System.Drawing.Size(100, 40);
+            this.btnCalcMedia.TabIndex = 1;
+            this.btnCalcMedia.Text = "Calcular média";
+            this.btnCalcMedia.UseVisualStyleBackColor = true;
+            this.btnCalcMedia.Click += new System.EventHandler(this.btnCalcMedia_Click);
+            // 
+            // FrmExercicio5
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(475, 230);
+            this.Controls.Add(this.btnCalcMedia);
+            this.Name = "FrmExercicio5";
             this.Text = "FrmExercicio5";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnCalcMedia;
     }
 }

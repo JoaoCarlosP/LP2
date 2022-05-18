@@ -35,7 +35,7 @@ namespace PAtividade9
             // 
             // btnClique
             // 
-            this.btnClique.Location = new System.Drawing.Point(141, 150);
+            this.btnClique.Location = new System.Drawing.Point(178, 149);
             this.btnClique.Name = "btnClique";
             this.btnClique.Size = new System.Drawing.Size(100, 40);
             this.btnClique.TabIndex = 0;
@@ -47,7 +47,7 @@ namespace PAtividade9
             // 
             this.lblFrase.AutoSize = true;
             this.lblFrase.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFrase.Location = new System.Drawing.Point(84, 43);
+            this.lblFrase.Location = new System.Drawing.Point(124, 70);
             this.lblFrase.Name = "lblFrase";
             this.lblFrase.Size = new System.Drawing.Size(226, 20);
             this.lblFrase.TabIndex = 1;
@@ -57,7 +57,7 @@ namespace PAtividade9
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(419, 223);
+            this.ClientSize = new System.Drawing.Size(464, 223);
             this.Controls.Add(this.lblFrase);
             this.Controls.Add(this.btnClique);
             this.Name = "FrmExercicio4";

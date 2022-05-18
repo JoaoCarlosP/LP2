@@ -53,7 +53,7 @@ namespace PAtividade9
             // 
             // rchtxtQuantidade
             // 
-            this.rchtxtQuantidade.Location = new System.Drawing.Point(19, 25);
+            this.rchtxtQuantidade.Location = new System.Drawing.Point(31, 27);
             this.rchtxtQuantidade.Name = "rchtxtQuantidade";
             this.rchtxtQuantidade.ReadOnly = true;
             this.rchtxtQuantidade.Size = new System.Drawing.Size(85, 170);
@@ -63,7 +63,7 @@ namespace PAtividade9
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(32, 9);
+            this.label1.Location = new System.Drawing.Point(44, 11);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(62, 13);
             this.label1.TabIndex = 2;
@@ -72,7 +72,7 @@ namespace PAtividade9
             // lblValorUnitario
             // 
             this.lblValorUnitario.AutoSize = true;
-            this.lblValorUnitario.Location = new System.Drawing.Point(116, 9);
+            this.lblValorUnitario.Location = new System.Drawing.Point(128, 11);
             this.lblValorUnitario.Name = "lblValorUnitario";
             this.lblValorUnitario.Size = new System.Drawing.Size(70, 13);
             this.lblValorUnitario.TabIndex = 4;
@@ -80,7 +80,7 @@ namespace PAtividade9
             // 
             // rchtxtValorUnitario
             // 
-            this.rchtxtValorUnitario.Location = new System.Drawing.Point(110, 25);
+            this.rchtxtValorUnitario.Location = new System.Drawing.Point(122, 27);
             this.rchtxtValorUnitario.Name = "rchtxtValorUnitario";
             this.rchtxtValorUnitario.ReadOnly = true;
             this.rchtxtValorUnitario.Size = new System.Drawing.Size(85, 170);
@@ -90,7 +90,7 @@ namespace PAtividade9
             // lblValorTotal
             // 
             this.lblValorTotal.AutoSize = true;
-            this.lblValorTotal.Location = new System.Drawing.Point(215, 9);
+            this.lblValorTotal.Location = new System.Drawing.Point(227, 11);
             this.lblValorTotal.Name = "lblValorTotal";
             this.lblValorTotal.Size = new System.Drawing.Size(58, 13);
             this.lblValorTotal.TabIndex = 6;
@@ -98,7 +98,7 @@ namespace PAtividade9
             // 
             // rchtxtValorTotal
             // 
-            this.rchtxtValorTotal.Location = new System.Drawing.Point(201, 25);
+            this.rchtxtValorTotal.Location = new System.Drawing.Point(213, 27);
             this.rchtxtValorTotal.Name = "rchtxtValorTotal";
             this.rchtxtValorTotal.ReadOnly = true;
             this.rchtxtValorTotal.Size = new System.Drawing.Size(85, 170);
@@ -107,7 +107,7 @@ namespace PAtividade9
             // 
             // txtFaturamentoTotal
             // 
-            this.txtFaturamentoTotal.Location = new System.Drawing.Point(295, 102);
+            this.txtFaturamentoTotal.Location = new System.Drawing.Point(326, 102);
             this.txtFaturamentoTotal.Name = "txtFaturamentoTotal";
             this.txtFaturamentoTotal.ReadOnly = true;
             this.txtFaturamentoTotal.Size = new System.Drawing.Size(100, 20);
@@ -116,7 +116,7 @@ namespace PAtividade9
             // lblFaturamentoTotal
             // 
             this.lblFaturamentoTotal.AutoSize = true;
-            this.lblFaturamentoTotal.Location = new System.Drawing.Point(295, 86);
+            this.lblFaturamentoTotal.Location = new System.Drawing.Point(326, 86);
             this.lblFaturamentoTotal.Name = "lblFaturamentoTotal";
             this.lblFaturamentoTotal.Size = new System.Drawing.Size(92, 13);
             this.lblFaturamentoTotal.TabIndex = 8;
@@ -124,7 +124,7 @@ namespace PAtividade9
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(312, 128);
+            this.btnClear.Location = new System.Drawing.Point(343, 128);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 23);
             this.btnClear.TabIndex = 9;
@@ -136,7 +136,7 @@ namespace PAtividade9
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(407, 267);
+            this.ClientSize = new System.Drawing.Size(454, 267);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.lblFaturamentoTotal);
             this.Controls.Add(this.txtFaturamentoTotal);

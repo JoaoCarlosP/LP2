@@ -34,7 +34,7 @@ namespace PAtividade9
             // 
             // btnExecutar
             // 
-            this.btnExecutar.Location = new System.Drawing.Point(117, 89);
+            this.btnExecutar.Location = new System.Drawing.Point(160, 123);
             this.btnExecutar.Name = "btnExecutar";
             this.btnExecutar.Size = new System.Drawing.Size(133, 33);
             this.btnExecutar.TabIndex = 0;
@@ -46,7 +46,7 @@ namespace PAtividade9
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(371, 331);
+            this.ClientSize = new System.Drawing.Size(446, 331);
             this.Controls.Add(this.btnExecutar);
             this.Name = "frmExercicio1";
             this.Text = "frmExercicio1";

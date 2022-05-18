@@ -36,7 +36,7 @@ namespace PAtividade9
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(162, 111);
+            this.btnCalcular.Location = new System.Drawing.Point(195, 121);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(89, 36);
             this.btnCalcular.TabIndex = 0;
@@ -47,7 +47,7 @@ namespace PAtividade9
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(147, 34);
+            this.lblResultado.Location = new System.Drawing.Point(180, 44);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(58, 13);
             this.lblResultado.TabIndex = 1;
@@ -55,7 +55,7 @@ namespace PAtividade9
             // 
             // txtResultado
             // 
-            this.txtResultado.Location = new System.Drawing.Point(150, 50);
+            this.txtResultado.Location = new System.Drawing.Point(183, 60);
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.ReadOnly = true;
             this.txtResultado.Size = new System.Drawing.Size(112, 20);
@@ -65,7 +65,7 @@ namespace PAtividade9
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(417, 222);
+            this.ClientSize = new System.Drawing.Size(467, 222);
             this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnCalcular);
