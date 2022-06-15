@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe.config
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\bin\Debug\PFerramenta.pdb
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Form1.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Properties.Resources.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.exe
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.pdb
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.frmFerramenta.resources
+C:\Users\user\OneDrive\Fatec\2º Semestre\Linguagem de Programação II\PFerramenta\PFerramenta\obj\Debug\PFerramenta.sobre.resources
